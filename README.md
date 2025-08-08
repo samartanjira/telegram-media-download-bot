@@ -21,8 +21,8 @@ This is a Telegram bot that allows you to download videos from TikTok, Instagram
 
 1. **Clone the repository:**
     ```bash
-    git clone https://github.com/your_username/RadymDownloadbot.git
-    cd RadymDownloadbot
+    git clone https://github.com/radimbig/telegram-media-download-bot.git
+    cd telegram-media-download-bot
     ```
 
 2. **Install the dependencies:**
@@ -96,8 +96,8 @@ This is a Telegram bot that allows you to download videos from TikTok, Instagram
 
 1. **Клонуйте репозиторій:**
     ```bash
-    git clone https://github.com/your_username/RadymDownloadbot.git
-    cd RadymDownloadbot
+    git clone https://github.com/radimbig/telegram-media-download-bot.git
+    cd telegram-media-download-bot
     ```
 
 2. **Встановіть залежності:**
@@ -171,8 +171,8 @@ This is a Telegram bot that allows you to download videos from TikTok, Instagram
 
 1. **Клонируйте репозиторий:**
     ```bash
-    git clone https://github.com/your_username/RadymDownloadbot.git
-    cd RadymDownloadbot
+    git clone https://github.com/radimbig/telegram-media-download-bot.git
+    cd telegram-media-download-bot
     ```
 
 2. **Установите зависимости:**
