@@ -52,7 +52,7 @@ dp = Dispatcher()
 @dp.message.middleware()
 async def whitelist_middleware(handler, event: types.Message, data: dict):
     if event.chat.id not in WHITELISTED_CHAT_IDS:
-        await event.reply(f"Your Chat ID is: {event.chat.id}")
+        await event.reply(f"Your Chat ID is: {event.chat.id} ask admin or deploy yourself https://github.com/radimbig/telegram-media-download-bot")
         return
     return await handler(event, data)
 
