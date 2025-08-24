@@ -52,7 +52,7 @@ dp = Dispatcher()
 @dp.message.middleware()
 async def whitelist_middleware(handler, event: types.Message, data: dict):
     if event.chat.id not in WHITELISTED_CHAT_IDS:
-        await event.reply(f"Your Chat ID is: {event.chat.id} ask admin or deploy by yourself https://github.com/radimbig/telegram-media-download-bot")
+        await event.reply(f"Your Chat ID is: {event.chat.id} send me a private message in my tiktok https://www.tiktok.com/@mryonair")
         return
     return await handler(event, data)
 
